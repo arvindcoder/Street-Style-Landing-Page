@@ -1,4 +1,4 @@
-# Street Style Landing Page
+# 🎀 Street Style Landing Page 🎀
 
 ![Street style](./1.png)
 
